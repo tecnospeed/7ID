@@ -1,0 +1,31 @@
+{
+  "name": "7id",
+  "version": "0.9.0",
+  "description": "Random base32 string generator for unique ID usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecnospeed/7ID.git"
+  },
+  "keywords": [
+    "random",
+    "base32",
+    "string",
+    "generator",
+    "unique",
+    "id"
+  ],
+  "author": "Rafael Gumieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tecnospeed/7ID/issues"
+  },
+  "homepage": "https://github.com/tecnospeed/7ID#readme",
+  "devDependencies": {
+    "jest": "^22.2.2",
+    "prettier-standard": "^8.0.0"
+  }
+}
