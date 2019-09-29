@@ -23,9 +23,5 @@
   "bugs": {
     "url": "https://github.com/tecnospeed/7ID/issues"
   },
-  "homepage": "https://github.com/tecnospeed/7ID#readme",
-  "devDependencies": {
-    "jest": "^22.2.2",
-    "prettier-standard": "^8.0.0"
-  }
+  "homepage": "https://github.com/tecnospeed/7ID#readme"
 }
